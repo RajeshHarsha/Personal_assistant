@@ -18,5 +18,4 @@ import pyjokes
 
 
 
-I have made some changes(small) .
-before copy the code change those changes
+I have made some changes(small) ,before copy the code change those changes
